@@ -1,0 +1,220 @@
+\begin{thebibliography}{10}
+
+\bibitem{pyla}
+Yuliya Pylayeva-Gupta, Elda Grabocka, and Dafna Bar-Sagi.
+\newblock {RAS} oncogenes: weaving a tumorigenic web.
+\newblock {\em Nat Rev Cancer}, 11(11):761--774, oct 2011.
+
+\bibitem{mak2014}
+Raymond~H. Mak, Gretchen Hermann, John~H. Lewis, Hugo~J.W.L. Aerts,
+  Elizabeth~H. Baldini, Aileen~B. Chen, Yolonda~L. Colson, Fred~H. Hacker,
+  David Kozono, Jon~O. Wee, Yu-Hui Chen, Paul~J. Catalano, Kwok-Kin Wong, and
+  David~J. Sher.
+\newblock Outcomes by tumor histology and {KRAS} mutation status after lung
+  stereotactic body radiation therapy for early stage non-small cell lung
+  cancer.
+\newblock {\em Clinical Lung Cancer}, sep 2014.
+
+\bibitem{ostrem2013}
+Jonathan~M. Ostrem, Ulf Peters, Martin~L. Sos, James~A. Wells, and Kevan~M.
+  Shokat.
+\newblock K-ras(g12c) inhibitors allosterically control {GTP} affinity and
+  effector interactions.
+\newblock {\em Nature}, 503(7477):548--551, nov 2013.
+
+\bibitem{lyubartsev1992}
+A.~P. Lyubartsev, A.~A. Martsinovski, S.~V. Shevkunov, and P.~N.
+  Vorontsov-Velyaminov.
+\newblock New approach to monte carlo calculation of the free energy: Method of
+  expanded ensembles.
+\newblock {\em J. Chem. Phys.}, 96(3):1776, 1992.
+
+\bibitem{qsar}
+Richard~A. Lewis.
+\newblock A general method for exploiting {QSAR} models in lead optimization.
+\newblock {\em Journal of Medicinal Chemistry}, 48(5):1638--1648, mar 2005.
+
+\bibitem{chodera2014}
+John~D Chodera and Frank No{\'{e}}.
+\newblock Markov state models of biomolecular conformational dynamics.
+\newblock {\em Current Opinion in Structural Biology}, 25:135--144, apr 2014.
+
+\bibitem{hdxms}
+Lars Konermann, Jingxi Pan, and Yu-Hong Liu.
+\newblock Hydrogen exchange mass spectrometry for studying protein structure
+  and dynamics.
+\newblock {\em Chem. Soc. Rev.}, 40(3):1224, 2011.
+
+\bibitem{rasblood}
+C.~W. Reuter, M.~A. Morgan, and L.~Bergmann.
+\newblock {{T}argeting the {R}as signaling pathway: a rational, mechanism-based
+  treatment for hematologic malignancies?}
+\newblock {\em Blood}, 96(5):1655--1669, Sep 2000.
+
+\bibitem{fesik}
+Qi~Sun, Jason~P. Burke, Jason Phan, Michael~C. Burns, Edward~T. Olejniczak,
+  Alex~G. Waterson, Taekyu Lee, Olivia~W. Rossanese, and Stephen~W. Fesik.
+\newblock Discovery of small molecules that bind to k-ras and inhibit
+  sos-mediated activation.
+\newblock {\em Angew. Chem. Int. Ed.}, 51(25):6140--6143, may 2012.
+
+\bibitem{craik}
+G.~M. Lee and C.~S. Craik.
+\newblock Trapping moving targets with small molecules.
+\newblock {\em Science}, 324(5924):213--215, apr 2009.
+
+\bibitem{openmm}
+Peter Eastman, Mark~S. Friedrichs, John~D. Chodera, Randall~J. Radmer,
+  Christopher~M. Bruns, Joy~P. Ku, Kyle~A. Beauchamp, Thomas~J. Lane, Lee-Ping
+  Wang, Diwakar Shukla, Tony Tye, Mike Houston, Timo Stich, Christoph Klein,
+  Michael~R. Shirts, and Vijay~S. Pande.
+\newblock {OpenMM} 4: A reusable, extensible, hardware independent library for
+  high performance molecular simulation.
+\newblock {\em J. Chem. Theory Comput.}, 9(1):461--469, jan 2013.
+
+\bibitem{blast}
+Stephen~F. Altschul, Warren Gish, Webb Miller, Eugene~W. Myers, and David~J.
+  Lipman.
+\newblock Basic local alignment search tool.
+\newblock {\em Journal of Molecular Biology}, 215(3):403--410, oct 1990.
+
+\bibitem{modeller}
+Andrej {\v{S}}ali and Tom~L. Blundell.
+\newblock Comparative protein modelling by satisfaction of spatial restraints.
+\newblock {\em Journal of Molecular Biology}, 234(3):779--815, dec 1993.
+
+\bibitem{kyle}
+Kyle~A. Beauchamp, Gregory~R. Bowman, Thomas~J. Lane, Lutz Maibaum, Imran~S.
+  Haque, and Vijay~S. Pande.
+\newblock {MSMBuilder}2: Modeling conformational dynamics on the picosecond to
+  millisecond scale.
+\newblock {\em J. Chem. Theory Comput.}, 7(10):3412--3419, oct 2011.
+
+\bibitem{hendlich1997}
+Manfred Hendlich, Friedrich Rippmann, and Gerhard Barnickel.
+\newblock {LIGSITE}: automatic and efficient detection of potential small
+  molecule-binding sites in proteins.
+\newblock {\em Journal of Molecular Graphics and Modelling}, 15(6):359--363,
+  dec 1997.
+
+\bibitem{kuntz1999}
+I.~D. Kuntz, K.~Chen, K.~A. Sharp, and P.~A. Kollman.
+\newblock The maximal affinity of ligands.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  96(18):9997--10002, aug 1999.
+
+\bibitem{bowman2012}
+G.~R. Bowman and P.~L. Geissler.
+\newblock Equilibrium fluctuations of a single folded protein reveal a
+  multitude of potential cryptic allosteric sites.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(29):11681--11686, jul 2012.
+
+\bibitem{tethering}
+D.~A. Erlanson, A.~C. Braisted, D.~R. Raphael, M.~Randal, R.~M. Stroud, E.~M.
+  Gordon, and J.~A. Wells.
+\newblock Site-directed ligand discovery.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  97(17):9367--9372, aug 2000.
+
+\bibitem{4OBEcite}
+J.~C. Hunter, D.~Gurbani, S.~B. Ficarro, M.~A. Carrasco, S.~M. Lim, H.~G. Choi,
+  T.~Xie, J.~A. Marto, Z.~Chen, N.~S. Gray, and K.~D. Westover.
+\newblock In situ selectivity profiling and crystal structure of {SML}-8-73-1,
+  an active site inhibitor of oncogenic k-ras g12c.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  111(24):8895--8900, jun 2014.
+
+\bibitem{pi3k}
+Michael~E. Pacold, Sabine Suire, Olga Perisic, Samuel Lara-Gonzalez, Colin~T.
+  Davis, Edward~H. Walker, Phillip~T. Hawkins, Len Stephens, John~F. Eccleston,
+  and Roger~L. Williams.
+\newblock Crystal structure and functional analysis of ras binding to its
+  effector phosphoinositide 3-kinase $\upgamma$.
+\newblock {\em Cell}, 103(6):931--944, dec 2000.
+
+\bibitem{rasgdp}
+Liang Tong, Abraham~M. de~Vos, Michael~V. Milburn, and Sung-Hou Kim.
+\newblock Crystal structures at 2.2 {\{aa}} resolution of the catalytic domains
+  of normal ras protein and an oncogenic mutant complexed with {GDP}.
+\newblock {\em Journal of Molecular Biology}, 217(3):503--516, feb 1991.
+
+\bibitem{hx}
+J.~J. Skinner, W.~Yu, E.~K. Gichana, M.~C. Baxa, J.~R. Hinshaw, K.~F. Freed,
+  and T.~R. Sosnick.
+\newblock Benchmarking all-atom simulations using hydrogen exchange.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  111(45):15975--15980, oct 2014.
+
+\bibitem{irwin2012}
+John~J. Irwin, Teague Sterling, Michael~M. Mysinger, Erin~S. Bolstad, and
+  Ryan~G. Coleman.
+\newblock {ZINC}: A free tool to discover chemistry for biology.
+\newblock {\em Journal of Chemical Information and Modeling}, 52(7):1757--1768,
+  jul 2012.
+
+\bibitem{dockingrev}
+Brian~K Shoichet, Susan~L McGovern, Binqing Wei, and John~J Irwin.
+\newblock Lead discovery using molecular docking.
+\newblock {\em Current Opinion in Chemical Biology}, 6(4):439--446, aug 2002.
+
+\bibitem{warren2006}
+Gregory~L. Warren, C.~Webster Andrews, Anna-Maria Capelli, Brian Clarke, Judith
+  LaLonde, Millard~H. Lambert, Mika Lindvall, Neysa Nevins, Simon~F. Semus,
+  Stefan Senger, Giovanna Tedesco, Ian~D. Wall, James~M. Woolven, Catherine~E.
+  Peishoff, and Martha~S. Head.
+\newblock A critical assessment of docking programs and scoring functions.
+\newblock {\em Journal of Medicinal Chemistry}, 49(20):5912--5931, oct 2006.
+
+\bibitem{boresch2013}
+Stefan Boresch, Franz Tettinger, Martin Leitgeb, and Martin Karplus.
+\newblock Absolute binding free energies:~ a quantitative approach for their
+  calculation.
+\newblock {\em J. Phys. Chem. B}, 107(35):9535--9551, sep 2003.
+
+\bibitem{chemtransform}
+Markus Hartenfeller, Martin Eberle, Peter Meier, Cristina Nieto-Oberhuber,
+  Karl-Heinz Altmann, Gisbert Schneider, Edgar Jacoby, and Steffen Renner.
+\newblock A collection of robust organic synthesis reactions for in silico
+  molecule design.
+\newblock {\em Journal of Chemical Information and Modeling},
+  51(12):3093--3098, dec 2011.
+
+\bibitem{shirts2008}
+Michael~R. Shirts and John~D. Chodera.
+\newblock Statistically optimal analysis of samples from multiple equilibrium
+  states.
+\newblock {\em J. Chem. Phys.}, 129(12):124105, 2008.
+
+\bibitem{liu}
+Jun~S. Liu.
+\newblock {\em Monte Carlo strategies in scientific computing}.
+\newblock Springer, 2001.
+
+\bibitem{gilson1997}
+M.K. Gilson, J.A. Given, B.L. Bush, and J.A. McCammon.
+\newblock The statistical-thermodynamic basis for computation of binding
+  affinities: a critical review.
+\newblock {\em Biophysical Journal}, 72(3):1047--1069, mar 1997.
+
+\bibitem{nilmeier2011}
+J.~P. Nilmeier, G.~E. Crooks, D.~D.~L. Minh, and J.~D. Chodera.
+\newblock Nonequilibrium candidate monte carlo is an efficient tool for
+  equilibrium simulation.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108(45):E1009--E1018, oct 2011.
+
+\bibitem{mobley2008}
+David~L. Mobley, Ken~A. Dill, and John~D. Chodera.
+\newblock Treating entropy and conformational changes in implicit solvent
+  simulations of small molecules.
+\newblock {\em J. Phys. Chem. B}, 112(3):938--946, jan 2008.
+
+\bibitem{itcref}
+Stephanie Leavitt and Ernesto Freire.
+\newblock Direct measurement of protein binding energetics by isothermal
+  titration calorimetry.
+\newblock {\em Current Opinion in Structural Biology}, 11(5):560--566, sep
+  2001.
+
+\end{thebibliography}
